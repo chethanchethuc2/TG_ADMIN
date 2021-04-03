@@ -70,7 +70,7 @@ And the following:
 
 KIGYO_IMG = "https://telegra.ph/file/e5100e06c03767af80023.jpg"
 
-DONATE_STRING = """I'm free for everyone!! """
+DONATE_STRING = """I'm free for!! """
 
 IMPORTED = {}
 MIGRATEABLE = []
